@@ -3,7 +3,7 @@
 A **String** is a sequence of characters.
 
 ```java
-String name = "Aravinth";
+String name = "Malar";
 ```
 
 Strings are one of the most frequently used data types in Java and are **immutable**.
